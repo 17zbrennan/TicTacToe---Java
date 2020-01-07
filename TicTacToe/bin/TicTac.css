@@ -1,0 +1,11 @@
+.button{
+	-fx-font-size: 28pt;
+	-fx-font-weight: bold;
+	-fx-color: black;
+	-fx-border-color:lime;
+	-fx-border-width:1;
+}
+
+.label{
+	-fx-font-size: 28pt;
+	}
